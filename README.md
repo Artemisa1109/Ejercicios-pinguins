@@ -41,9 +41,8 @@ Este repositorio contiene los ejercicios resueltos (Ejercicio 4 y Ejercicio 5) u
 
 ```r
 install.packages(c("tidyverse", "palmerpenguins", "knitr"))
+---
 
-## 📸 Visualización
-<img width="1884" height="899" alt="Captura de pantalla 2025-09-19 191439" src="https://github.com/user-attachments/assets/24e8843c-c85a-4610-8110-fc404f103791" />
 
 
 

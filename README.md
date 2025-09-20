@@ -32,6 +32,12 @@ Este repositorio contiene los ejercicios resueltos (Ejercicio 4 y Ejercicio 5) u
 - Tablas bonitas con `knitr::kable()`
 
 ---
+## 📸 Visualización en RStudio
+
+Aquí se muestra el entorno de trabajo en RStudio con el gráfico de distribución del largo de pico para pingüinos Adelie en la isla Dream.
+<img width="1917" height="959" alt="image" src="https://github.com/user-attachments/assets/c68aaa8e-afb7-493b-a6af-612d42f66f28" />
+
+--
 
 ## 🚀 Cómo correr este proyecto
 

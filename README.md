@@ -41,8 +41,10 @@ Este repositorio contiene los ejercicios resueltos (Ejercicio 4 y Ejercicio 5) u
 
 ```r
 install.packages(c("tidyverse", "palmerpenguins", "knitr"))
----
 
+## 📸 Visualización final
+
+![Distribución del largo de pico](grafico_adelie_dream.png)
 
 
 
